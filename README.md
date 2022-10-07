@@ -26,7 +26,7 @@ You should communicate with your group early on to discuss who will do what, and
 
 If you having trouble communicating with members of your group e.g. someone is just not responding to emails at all, please let the course staff know.  In extreme cases, group members may be re-assigned.
 
-If you are new to using git, see [collaboriating with git](https://github.com/caam37830/git-tutorial/blob/master/collaborating.md).  It is recommended to use a branch for each team member.
+If you are new to using git, see [collaboriating with git](https://github.com/caam37830-fall-2022/git-tutorial/blob/main/collaborating.md).  It is recommended to use a branch for each team member.
 
 ### Grading Rubric
 
