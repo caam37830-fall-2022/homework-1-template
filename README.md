@@ -13,7 +13,7 @@ Please put plots and written answers in the Jupyter notebook [`answers.ipynb`](a
 ## Important Information
 
 ### Due Date
-This assignment is due Friday, October 15 at 12pm (noon) Chicago time.
+This assignment is due Thursday, October 13 at midnight Chicago time.
 
 You should make sure you have pushed your completed work to GitHub by this time.
 
@@ -67,17 +67,6 @@ The tests are in [`test.py`](test.py).  You should not modify this code, and don
 You need to pass all tests to receive full points.
 
 Keep in mind that the autograder is just doing some basic sanity checks, which is why there are also separate points for "correctness".  However, if you are passing the autograder checks, chances are you're on your way to success.
-
-### Some git/GitHub Tips
-
-On Homework 0, GitHub classroom sometimes didn't configure things correctly.  This is apparently a bug, and I have filed an issue with GitHub.
-
-To make things work as smooth as possible, please check:
-1. GitHub actions is enabled for your repository - you can check this in the actions tab.  This just requires clicking a button if it isn't enabled.  See [the template repository](https://github.com/caam37830/homework-1-template/actions) for example.  There is an action configured that checks for problems in the code and runs the autograder whenever you push code, which can give you quick feedback on if things aren't working properly.  You can always run the autograder tests by yourself without GitHub actions.
-2. Check that there is a feedback pull request created for your repository - if this hasn't happened contact the course staff, so we can do it manually.
-
-Also, make sure you don't delete the `.gitignore` file, `.github` folder, or `.git` folder.  These are "hidden" files that don't always show in file managers - you can view them in terminal using `ls -a`.  `.gitignore` keeps temporary files out of version control (like `__pycache__`, or `.ipynb_checkpoints`), and the `.github` folder contains information to run the GitHub actions for the repository discussed above.  The `.git` folder contains all the version control information for your repository.
-
 
 
 ## Problem 0
